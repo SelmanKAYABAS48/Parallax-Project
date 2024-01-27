@@ -55,7 +55,7 @@ outline-offset: 10px;
     min-height: 100%;
     display: flex;
     align-items: center;
-    justify-content: center;
+   
 }
 .container2{
     height: 100vh;
@@ -116,4 +116,64 @@ outline-offset: 10px;
     text-align: center;
     padding-top: 2rem;
     padding-bottom: 1.5rem;
+}
+
+.paragraf3{
+    background-color: #F1F1F1;
+    text-align: center;
+    line-height: 2rem;
+    padding: 1.5rem 4ren 3rem 4rem;
+    font-family: 'Lato', sans-serif;
+}
+.paragraf3 h2{
+    padding-top: 2rem;
+    padding-bottom: 1.5rem;
+}
+
+.BASLIK3 h1{
+    border: none;
+text-align: center;
+background-color: rgb(86, 86, 86);
+color: white;
+letter-spacing: 8px;
+font-family: 'Lato', sans-serif;
+margin:100px auto;
+width: 25rem;
+height: 5.4rem;
+padding: 10px;
+padding-top: 20px;
+border-bottom-right-radius: 1.5rem;
+border-top-left-radius: 1.5rem;
+outline: 6px inset rgba(136, 0, 136, 0.675);
+outline-offset: 10px;
+
+}
+.paragraf4{
+    background-color: rgb(39, 46, 52);
+    color: white;
+    text-align: center;
+    line-height: 2rem;
+    padding: 1.5rem 5rem 3rem 5rem;
+    font-family: 'Lato', sans-serif;
+    justify-content: center;
+}
+
+.BASLIK4 h1{
+    border: none;
+    text-align: center;
+    background-color: rgb(86, 86, 86);
+    color: white;
+    letter-spacing: 8px;
+    font-family: 'Lato', sans-serif;
+    margin:100px auto;
+    width: 40rem;
+    height: 5.4rem;
+    
+    padding: 10px;
+    padding-top:20px ;
+    border-bottom-right-radius: 1.5rem;
+    border-top-left-radius: 1.5rem;
+    outline: 6px inset rgba(136, 0, 136, 0.675);
+    outline-offset: 10px;
+
 }
